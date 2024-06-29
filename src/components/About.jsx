@@ -16,7 +16,7 @@ import pythonSvg from '../svgs/python.svg'
 const About = () => {
     return (
         <>
-            <section className='secondSection h-[180vh] max-lg:h-[290vh] p-[20px] max-lg:p-4'>
+            <section id='AboutSection' className='secondSection h-[180vh] max-lg:h-[290vh] p-[20px] max-lg:p-4'>
                 <div className="container mx-auto w-full lg:w-5/6">
                     <h1 className='text-4xl text-white font-bold'>About me</h1>
                     <div className='flex gap-4'>

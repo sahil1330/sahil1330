@@ -10,7 +10,7 @@ const Navbar = () => {
                     <div className="right text-[#fff]">
                         <ul className='flex max-lg:flex-col justify-center'>
                             <li><a href="/">Home</a></li>
-                            <li><a href="/">About me</a></li>
+                            <li><a href="#AboutSection">About me</a></li>
                             <li><a href="/">Projects</a></li>
                             <li><a href="/">Contact Me</a></li>
                             <li><a href="/">My Resume</a></li>

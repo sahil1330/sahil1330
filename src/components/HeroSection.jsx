@@ -21,7 +21,7 @@ const HeroSection = () => {
 
     return (
         <>
-            <section className="firstSection flex lg:flex-row flex-col-reverse max-lg:gap-10 justify-around my-20 lg:my-[0px] text-[#fff] h-[90vh] items-center shadow-xl">
+            <section id='HeroSection' className="firstSection flex lg:flex-row flex-col-reverse max-lg:gap-10 justify-around my-20 lg:my-[0px] text-[#fff] h-[90vh] items-center shadow-xl">
                 <div className="leftSection text-[2.5rem] text-center px-10">
                     Hii My name is <span className="text-[#10B4D6]">Sahil</span>
                     <div>and I am a passionate</div>
