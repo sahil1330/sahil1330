@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .box {
+    @apply w-[250px] h-[250px] border-2 border-white rounded-lg flex items-center flex-col gap-5 p-6 bg-[#131B2F];
+  }
+}
