@@ -31,7 +31,7 @@ const HeroSection = () => {
                 
                 <div className="rightSection ">
                     <div className='max-lg:w-[300px] max-lg:h-[300px] w-[500px] h-[500px] border-8 border-[#10B4D6] rounded-full overflow-hidden mt-[50px] bg-[#131B2F] '>
-                    <img src="../../public/imgs/myphoto2.jpg" className='max-lg:w-[300px] max-lg:h-[300px] w-[500px] h-[500px] ' alt=""  />
+                    <img src="imgs/myphoto2.jpg" className='max-lg:w-[300px] max-lg:h-[300px] w-[500px] h-[500px] ' alt=""  />
                     </div>
                 </div>
             </section>
