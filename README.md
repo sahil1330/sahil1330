@@ -57,10 +57,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil1330&" alt="sahil1330" /></p>
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil1330&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="sahil1330" /></p>
 
-<br clear="both">
-![Snake animation](https://github.com/sahil1330/sahil1330/blob/output/github-contribution-grid-snake.svg)
-
-###
